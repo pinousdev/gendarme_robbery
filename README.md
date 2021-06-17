@@ -6,6 +6,7 @@ Salut, A ce jours, Pinous'Dev vous propose un système de Cambriolage pour FiveM
 
 Merci a tous de faire confiance a Pinous'Dev et a bientôt pour une nouvelle sortis de script
 
+Requis : FeedM : https://github.com/Mobius1/FeedM , xSound : https://github.com/Xogy/xsound Changer le nom du fichier "xsound" par "xSound"
 
 
 ---------- EN ----------
@@ -16,8 +17,10 @@ Hi, To this day, Pinous'Dev offers you a burglary system for FiveM carried out b
 
 Thank you all for trusting Pinous'Dev and soon for a new script releases
 
+Required : FeedM: https://github.com/Mobius1/FeedM, xSound: https://github.com/Xogy/xsound Change the name of the file "xsound" to "xSound"
 
-#gendarme_robbery
+
+# gendarme_robbery
 
 
 --- Discord of Pinous'Dev - https://discord.gg/GUnYJBT - Copyright 2021 ---
